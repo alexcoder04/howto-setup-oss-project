@@ -9,7 +9,12 @@ Not all of these steps are necessary, this is just what I generally do :)
  - Usage
  - Configuration
  - Badges (https://shields.io)
+
+## Github project
+
  - specify Github topics
+ - code of conduct
+ - contributing guidelines
 
 ## Documentation
 
