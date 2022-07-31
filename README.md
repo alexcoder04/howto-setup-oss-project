@@ -8,9 +8,9 @@ Not all of these steps are necessary, this is just what I generally do :)
  - Installation instructions
  - Usage
  - Configuration
- - Badges (https://shields.io)
+ - Badges (https://shields.io/, https://badgen.net/)
 
-## Github project
+## GitHub project
 
  - specify Github topics
  - code of conduct
