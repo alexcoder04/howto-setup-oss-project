@@ -1,5 +1,5 @@
 
-# Checklist for setting up an open source project on GitHub
+# Checklist for Setting up an Open Source Project on GitHub
 
 Not all of these steps are necessary, this is just what I generally do :)
 
@@ -12,17 +12,17 @@ Not all of these steps are necessary, this is just what I generally do :)
 
 ## GitHub project
 
- - specify Github topics
- - code of conduct
- - contributing guidelines
+ - Specify Github topics
+ - Code of Conduct
+ - Contributing guidelines
 
 ## Documentation
 
- - wiki
+ - Wiki
  - Github pages
- - man page
+ - "Man" page
 
-## Building / automation
+## Building / Automation
 
  - Makefile
  - Dependabot / code quality checking
